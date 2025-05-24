@@ -1,0 +1,4 @@
+Tugas penting
+- Membuat Halaman Index.html
+- Membuat Halaman From.html
+- Membuat Halaman About.html
